@@ -3,8 +3,8 @@
   "environment": "production",
   "maintenance_mode": false,
   "base_url": {
-      "primary": "telegramsignalcopier.ai",
-      "secondary": "telegramsignalcopier.com",
+      "primary": "telegramsignalcopier.com",
+      "secondary": "telegramsignalcopier.ai",
       "fallback": "telegramsignalcopier.io"
   },
   "message": {
