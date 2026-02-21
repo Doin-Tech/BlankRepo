@@ -1,0 +1,14 @@
+{
+  "version": "1.0.3",
+  "environment": "production",
+  "maintenance_mode": false,
+  "base_url": {
+      "primary": "telegramsignalcopier.ai",
+      "secondary": "telegramsignalcopier.com",
+      "fallback": "telegramsignalcopier.io"
+  },
+  "message": {
+    "banner": "System operating normally",
+    "maintenance_notice": "System is undergone maintanance."
+  }
+}
