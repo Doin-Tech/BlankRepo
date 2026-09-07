@@ -3,9 +3,8 @@
   "environment": "production",
   "maintenance_mode": false,
   "base_url": {
-      "primary": "telegramsignalcopier.com",
-      "secondary": "telegramsignalcopier.ai",
-      "fallback": "telegramsignalcopier.io"
+      "primary": "trade2sync.com",
+      "secondary": "telegramsignalcopier.ai"
   },
   "message": {
     "banner": "System operating normally",
