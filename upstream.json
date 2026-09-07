@@ -4,7 +4,7 @@
   "maintenance_mode": false,
   "base_url": {
       "primary": "trade2sync.com",
-      "secondary": "telegramsignalcopier.ai"
+      "secondary": "telegramsignalcopier.com"
   },
   "message": {
     "banner": "System operating normally",
