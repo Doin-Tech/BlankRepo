@@ -5,7 +5,8 @@
   "base_url": {
       "primary": "legacy.trade2sync.com",
       "secondary": "app.telegramsignalcopier.com",
-      "backup": "news.telegramsignalcopier.com"
+      "backup": "news.telegramsignalcopier.com",
+      "extra": "telegramsignalcopier.com",
   },
   "message": {
     "banner": "System operating normally",
